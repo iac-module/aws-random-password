@@ -1,1 +1,1 @@
-# aws-random-password
+# random_password
